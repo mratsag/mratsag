@@ -24,8 +24,7 @@ Merhaba ben Murat. Karabük Üniversitesinde Bilgisayar Mühendisliği Bölümü
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username= mratsag&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id= mratsag&icon=2&color=2)](https://visitcount.itsvg.in)

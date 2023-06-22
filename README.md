@@ -1,5 +1,13 @@
 # 💫 About Me:
-Merhaba ben Murat. Karabük Üniversitesinde Bilgisayar Mühendisliği Bölümünde okuyorum. Hedeflerim arasında yazılımda kendimi çok ileri seviyeye taşımak var. 
+Merhaba, ben Murat. Karabük Üniversitesi Bilgisayar Mühendisliği Bölümü'nde okuyorum ve yazılım geliştirme konusunda kendimi geliştirmeye odaklanmış durumdayım.
+
+Başarılı bir yazılım mühendisi olmak için farklı alanlarda kendimi geliştirmeye, geliştirme süreçlerini takip etmeye ve yeni teknolojilere açık olmaya özen gösteriyorum. Bu nedenle, üniversite eğitimim sırasında Web Geliştirme konusunda kendimi geliştirmeye çalıştım. Ayrıca, açık kaynaklı projelerde yer alarak, hem kendi becerilerimi geliştirdim hem de topluluğa katkıda bulundum.
+
+Hedeflerim arasında, yazılım geliştirme alanında kendimi çok ileri seviyeye taşımak, yeni teknolojileri takip etmek ve geliştirme süreçlerinde liderlik becerilerimi geliştirmek yer alıyor. Bu hedeflere ulaşmak için, öğrenmeye ve kendimi geliştirmeye devam edeceğim.
+
+GitHub profilimde, yaptığım çalışmalarımı paylaşıyorum. Bu projeleri inceleyerek, yazılım geliştirme becerilerim hakkında daha fazla bilgi edinebilirsiniz.
+
+Teşekkürler, bana ulaşmak için her zaman açığım!
 
 
 ## 🌐 Socials:

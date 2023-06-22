@@ -18,13 +18,8 @@ Merhaba ben Murat. Karabük Üniversitesinde Bilgisayar Mühendisliği Bölümü
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=mratsagg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username= mratsag&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id= mratsag&icon=2&color=2)](https://visitcount.itsvg.in)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Sağ</h1>
-<h3 align="center">I'm an active computer engineering student now.</h3>
+<h3>I'm an active computer engineering student now.</h3>
 
 - 🔭 I’m currently working on **Java and SQL**
 

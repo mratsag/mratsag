@@ -1,4 +1,4 @@
-[![MasterHead](https://www.webtekno.com/images/editor/default/0003/47/9081c992ca8b6f9fd55a9f36c6f5fae08ed5f57f.jpeg)
+![MasterHead](https://www.webtekno.com/images/editor/default/0003/47/9081c992ca8b6f9fd55a9f36c6f5fae08ed5f57f.jpeg)
 <h1 align="center">Hi 👋, I'm Murat Sağ</h1>
 <h3>I'm an active computer engineering student now.</h3>
 

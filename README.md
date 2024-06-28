@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **We can talk everything about tech developments and the world of computers.**
 
-- 📫 How to reach me **mrat.sag@hotmail.com**
+- 📫 How to reach me **mrat.sag@hotmail.com** 
 
 <p align="left">
 </p>

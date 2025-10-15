@@ -38,12 +38,12 @@ Bilgisayar Mühendisliği öğrencisi ve tutkulu bir yazılım geliştiricisiyim
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mratsag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mratsag&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mratsag&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Odak Alanlarım
@@ -68,8 +68,8 @@ const murat = {
   
 [![Website](https://img.shields.io/badge/Website-muratsag.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.muratsag.com)
 [![Email](https://img.shields.io/badge/Email-mrat.sag@hotmail.com-red?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mrat.sag@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mratsag)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murat-sağ)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KULLANICI_ADINIZ)
 
 </div>
 

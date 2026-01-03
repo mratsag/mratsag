@@ -6,7 +6,7 @@
 
 ## 🚀 Hakkımda
 
-Bilgisayar Mühendisliği öğrencisi ve tutkulu bir yazılım geliştiricisiyim. Teknoloji dünyasındaki yenilikleri takip ediyor ve sürekli kendimi geliştiriyorum.
+Bilgisayar Mühendisi ve tutkulu bir yazılım geliştiricisiyim. Teknoloji dünyasındaki yenilikleri takip ediyor ve sürekli kendimi geliştiriyorum.
 
 - 🔭 **Şu anda üzerinde çalıştıklarım:** Java ve SQL ile backend geliştirme
 - 🌱 **Öğrenmekte olduklarım:** Docker, React ve Machine Learning
